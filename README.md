@@ -6,7 +6,7 @@ Hi 👋! My name is Rommel and I'm a Full-Stack Developer from Tacloban City, Ph
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Senpai2627&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages graph" />
 </div>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/e1/21/13/e12113b4e1de97f852a91972cd7e7771.gif" />
+
 
 Here are some technologies I work with:
 
